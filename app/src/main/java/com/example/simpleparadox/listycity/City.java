@@ -18,7 +18,7 @@ public class City implements Comparable<City>{
     }
 
     void setCityName(String city) {
-
+        this.city = city;
     }
 
     @Override
